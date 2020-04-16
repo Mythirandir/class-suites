@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="948fcdc2-9eba-47c6-8e31-c31926e4640c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1jvnenIqSWK1wQKDKYwuWUmtv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Celio" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="145" key="FileChooserDialogImpl" timestamp="1586903489620">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="121" y="145" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1586903489620" />
+    <state x="0" y="33" key="SettingsEditor" timestamp="1587021610413">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="33" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587021610413" />
+    <state x="184" y="234" width="708" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1585949973147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="234" width="708" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768@0.0.1366.768" timestamp="1585949973147" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1587021528014">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1587021528014" />
+  </component>
+</project>
